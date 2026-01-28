@@ -1,0 +1,53 @@
+# Dependencies
+node_modules/
+bower_components/
+
+# System files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Build and distribution
+dist/
+build/
+*.min.js
+*.min.css
+
+# IDE and editor settings
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.sublime-project
+.sublime-workspace
+
+# Local Claude settings (exclude from git)
+.claude/
+.claude_settings.json
+.claude_settings.local.json
+
+# Environment files
+.env
+.env.local
+.env.*.local
+
+# Testing and coverage
+coverage/
+.nyc_output/
+
+# Temporary files
+tmp/
+temp/
+*.tmp
+*.bak
