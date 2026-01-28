@@ -1,0 +1,40 @@
+{
+  "initialized": true,
+  "created_at": "2026-01-28T14:53:28.173Z",
+  "team_key": "WID",
+  "team_name": "Widinglabs",
+  "project_name": "Pomodoro Timer",
+  "project_id": "3720094e-f1a6-45ea-a38c-5f19bd2a787f",
+  "project_slug": "3785da79a8e3",
+  "project_url": "https://linear.app/widinglabs/project/pomodoro-timer-3785da79a8e3",
+  "meta_issue_id": "WID-74",
+  "meta_issue_url": "https://linear.app/widinglabs/issue/WID-74/meta-project-progress-tracker",
+  "total_issues": 6,
+  "feature_issues": [
+    {
+      "id": "WID-69",
+      "title": "Timer Display - Countdown UI with Progress Ring",
+      "priority": "High"
+    },
+    {
+      "id": "WID-70",
+      "title": "Timer Controls - Start, Pause, Reset, and Skip",
+      "priority": "High"
+    },
+    {
+      "id": "WID-71",
+      "title": "Session Types - Work, Short Break, Long Break with Auto-Switch",
+      "priority": "High"
+    },
+    {
+      "id": "WID-72",
+      "title": "Session Counter - Track Completed Pomodoros with Persistence",
+      "priority": "Medium"
+    },
+    {
+      "id": "WID-73",
+      "title": "Audio Notification - Gentle Sound on Timer Complete",
+      "priority": "Medium"
+    }
+  ]
+}
